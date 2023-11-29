@@ -45,7 +45,7 @@ Options:
 Example:
 
 ```bash
-python main.py 3 -f mydata.csv -o output_folder -c 200 -n split_{key}_{index} -v -t
+python main.py 3 -f mydata.csv -o output_folder -c 200 -n split_{key}_{index} -t
 ```
 
 ## Configuration
