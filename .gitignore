@@ -1,0 +1,44 @@
+# Python and environment files
+*.pyc
+__pycache__
+*.pyo
+*.pyd
+.Python
+env.py
+.venv
+.venv3.10
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Datasets
+*.csv
+
+# Output folder
+output_folder/
+split_output
+
+# Compiled Files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# PDFs or Documents
+*.pdf
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
